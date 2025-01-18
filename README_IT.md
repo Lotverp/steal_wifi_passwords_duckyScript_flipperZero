@@ -51,8 +51,8 @@ Ecco come funziona:
  
 ## 💻 Compatibilità 
  
-- **Windows 10**: Completamente supportato.  
-- **Windows 11**: Non testato (ma dovrebbe funzionare).  
+- **Windows 10**: Pienamente supportato.  
+- **Windows 11**: Pienamente supportato
  
 --- 
  
