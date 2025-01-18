@@ -48,7 +48,7 @@
 ## 💻 Compatibility
 
 - Windows 10: Fully supported.  
-- Windows 11: Not tested (but should work).
+- Windows 11: Fully supported.
 
 ---
 
