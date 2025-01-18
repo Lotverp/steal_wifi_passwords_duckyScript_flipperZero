@@ -2,7 +2,7 @@
 
 # ✍️ What did I change?
 - Ho creato un nuovo README con relativa traduzione in italiano
-- Ho migliorato il codice scritto da [@israel099](, forzando il cambio layout tastiera in US (in modo da impostare il layout corretto), ho aggiunto la funzione `exit` per chiudere il terminale e non lasciare alcuna traccia.
+- Ho migliorato il codice scritto da [@israel099](https://github.com/israel099), forzando il cambio layout tastiera in US (in modo da impostare il layout corretto), ho aggiunto la funzione `exit` per chiudere il terminale e non lasciare alcuna traccia.
 
 # ❗Follow the instructions below to set up and use the script effectively.
 > ⭐ Don't forget to star the project so I can see it's helpful!
