@@ -1,8 +1,8 @@
 # 🦆 8-Second Smart WiFi Password Stealer
 
 # ✍️ What did I change?
-- Ho creato un nuovo README con relativa traduzione in italiano
-- Ho migliorato il codice scritto da [@israel099](https://github.com/israel099), forzando il cambio layout tastiera in US (in modo da impostare il layout corretto), ho aggiunto la funzione `exit` per chiudere il terminale e non lasciare alcuna traccia.
+- I created a new README with a relative translation into Italian
+- I improved the code written by [@israel099](https://github.com/israel099), forcing the keyboard layout change to US (so as to set the correct layout), I added the `exit` function to close the terminal and leave no trace.
 
 # ❗Follow the instructions below to set up and use the script effectively.
 > ⭐ Don't forget to star the project so I can see it's helpful!
