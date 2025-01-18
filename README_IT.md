@@ -1,8 +1,13 @@
 # 🦆 Ottieni Password WiFi e SSID in 8 Secondi
  
+# ✍️ Cosa ho cambiato?
+- Ho creato un nuovo README con relativa traduzione in italiano
+- Ho migliorato il codice scritto da @israel099, forzando il cambio layout tastiera in US (in modo da impostare il layout corretto), ho aggiunto la funzione `exit` per chiudere il terminale e non lasciare alcuna traccia.
 Questo progetto contiene uno script "DuckyScript" compatibile con tutti i dispositivi Ducky USB e Flipper Zero.  
 Segui le istruzioni riportate di seguito per configurare e utilizzare efficacemente lo script.  
  
+# ❗Segui le istruzioni sottostanti per configurare lo script e farlo funzionare effettivamente.
+
 > ⭐️ Non dimenticare di aggiungere il progetto ai preferiti per farci sapere se è utile!  
  
 --- 
