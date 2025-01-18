@@ -1,16 +1,18 @@
 # 🦆 8-Second Smart WiFi Password Stealer
 
-This project contains a DuckyScript compatible with all Ducky USB and Flipper Zero devices.  
-Follow the instructions below to set up and use the script effectively.
+# ✍️ What did I change?
+- Ho creato un nuovo README con relativa traduzione in italiano
+- Ho migliorato il codice scritto da @israel099, forzando il cambio layout tastiera in US (in modo da impostare il layout corretto), ho aggiunto la funzione `exit` per chiudere il terminale e non lasciare alcuna traccia.
 
+# ❗Follow the instructions below to set up and use the script effectively.
 > ⭐ Don't forget to star the project so I can see it's helpful!
 
 ---
 
 ## 📋 How the Program Works
 
-This DuckyScript is designed to retrieve WiFi passwords saved on a target PC within 8 seconds. Here's how it works:
-
+- This project contains a DuckyScript compatible with all Ducky USB and Flipper Zero devices.  
+- It is designed to retrieve WiFi passwords saved on a target PC within 8 seconds. Here's how it works:
 1. Start: Plug in the USB device or activate the script from your Flipper Zero.  
 2. Minimized CMD: The command prompt will run in minimized mode to avoid detection.  
 3. Collect Data: The script retrieves all saved SSIDs and passwords.  
